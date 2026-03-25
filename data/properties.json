@@ -1,0 +1,27 @@
+[
+  {
+    "id": "cfc35725-e382-4e18-aed4-92eceba6d2b4",
+    "name": "White Field",
+    "address": "42",
+    "floorPlan": "/uploads/286c252d-2f22-4b20-b67e-a0109493456d.png",
+    "dots": [
+      {
+        "id": "fzrnohz1",
+        "label": "New Spot",
+        "x": 47.39,
+        "y": 41.3,
+        "images": [
+          "/uploads/984a010e-5740-4ca2-a39e-305872dec4f7.jpg"
+        ]
+      },
+      {
+        "id": "f23jjdox",
+        "label": "New Spot",
+        "x": 55.15,
+        "y": 65.39,
+        "images": []
+      }
+    ],
+    "createdAt": "2026-03-25T07:41:24.315Z"
+  }
+]
