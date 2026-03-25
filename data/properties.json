@@ -1,27 +1,29 @@
 [
   {
-    "id": "cfc35725-e382-4e18-aed4-92eceba6d2b4",
-    "name": "White Field",
-    "address": "42",
-    "floorPlan": "/uploads/286c252d-2f22-4b20-b67e-a0109493456d.png",
+    "id": "9acc42ad-3e0b-451f-88b3-fe3dbb4722d7",
+    "name": "qwe",
+    "address": "qwer",
+    "floorPlan": "/uploads/10786aaa-f087-436d-acdc-0f379f47e9f1.jpg",
     "dots": [
       {
-        "id": "fzrnohz1",
-        "label": "New Spot",
-        "x": 47.39,
-        "y": 41.3,
+        "id": "j08gkr58",
+        "label": "Hall",
+        "x": 40.37,
+        "y": 32.01,
         "images": [
-          "/uploads/984a010e-5740-4ca2-a39e-305872dec4f7.jpg"
+          "/uploads/57c9fa28-53ec-4947-8c6d-7bcabb8226b9.png"
         ]
       },
       {
-        "id": "f23jjdox",
+        "id": "dev7st6m",
         "label": "New Spot",
-        "x": 55.15,
-        "y": 65.39,
-        "images": []
+        "x": 36.04,
+        "y": 65.24,
+        "images": [
+          "/uploads/77664e9c-f496-42eb-bc4c-35c0d11a0780.jpg"
+        ]
       }
     ],
-    "createdAt": "2026-03-25T07:41:24.315Z"
+    "createdAt": "2026-03-25T14:17:29.695Z"
   }
 ]

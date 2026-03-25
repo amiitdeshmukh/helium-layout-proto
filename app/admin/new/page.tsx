@@ -36,7 +36,7 @@ export default function NewPropertyPage() {
               value={name}
               onChange={(e) => setName(e.target.value)}
               placeholder="e.g. 3BHK Flat, Whitefield"
-              className="w-full border border-zinc-300 rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-emerald-400"
+              className="w-full border border-zinc-300 rounded-lg px-3 py-2.5 text-sm text-zinc-900 bg-white placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-emerald-400"
             />
           </div>
           <div>
@@ -46,7 +46,7 @@ export default function NewPropertyPage() {
               value={address}
               onChange={(e) => setAddress(e.target.value)}
               placeholder="e.g. 42 MG Road, Bangalore"
-              className="w-full border border-zinc-300 rounded-lg px-3 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-emerald-400"
+              className="w-full border border-zinc-300 rounded-lg px-3 py-2.5 text-sm text-zinc-900 bg-white placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-emerald-400"
             />
           </div>
           <button
